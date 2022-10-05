@@ -1,0 +1,774 @@
+{
+  "count": 0,
+  "meta": {
+    "as_of_human": "October 05, 2022",
+    "as_of_timestamp": 1664907300,
+    "source": "https://www.nrb.org.np/bank-list/",
+    "author": "https://github.com/xyznaveen"
+  },
+  "data": [
+    {
+      "title": "Commercial Bank (Class A)",
+      "data": [
+        {
+          "code": "11001",
+          "name": "Nepal Bank Limited"
+        },
+        {
+          "code": "11002",
+          "name": "Rastriya Banijya Bank"
+        },
+        {
+          "code": "11003",
+          "name": "Nabil Bank Limited"
+        },
+        {
+          "code": "11004",
+          "name": "Nepal Investment Bank Limited"
+        },
+        {
+          "code": "11005",
+          "name": "Standard Chartered Bank Nepal Limited"
+        },
+        {
+          "code": "11006",
+          "name": "Himalayan Bank Limited"
+        },
+        {
+          "code": "11007",
+          "name": "Nepal SBI Bank Limited"
+        },
+        {
+          "code": "11009",
+          "name": "Everest Bank Limited"
+        },
+        {
+          "code": "11010",
+          "name": "Bank of Kathmandu Limited"
+        },
+        {
+          "code": "11011",
+          "name": "Nepal Credit and Commerce Bank Limited"
+        },
+        {
+          "code": "11012",
+          "name": "NIC ASIA Bank Limited"
+        },
+        {
+          "code": "11014",
+          "name": "Machhapuchchhre Bank Limited"
+        },
+        {
+          "code": "11015",
+          "name": "Kumari Bank Limited"
+        },
+        {
+          "code": "11016",
+          "name": "Laxmi Bank Limited"
+        },
+        {
+          "code": "11017",
+          "name": "Siddhartha Bank Limited"
+        },
+        {
+          "code": "11018",
+          "name": "Agriculture Development Bank"
+        },
+        {
+          "code": "11019",
+          "name": "Global IME Bank Limited"
+        },
+        {
+          "code": "11020",
+          "name": "Citizens Bank International Limited"
+        },
+        {
+          "code": "11021",
+          "name": "Prime Commercial Bank Limited"
+        },
+        {
+          "code": "11023",
+          "name": "Sunrise Bank Limited"
+        },
+        {
+          "code": "11025",
+          "name": "NMB Bank Limited"
+        },
+        {
+          "code": "11026",
+          "name": "Prabhu Bank Limited"
+        },
+        {
+          "code": "11028",
+          "name": "Mega Bank Nepal Limited"
+        },
+        {
+          "code": "11030",
+          "name": "Civil Bank Limited"
+        },
+        {
+          "code": "11031",
+          "name": "Century Commercial Bank Limited"
+        },
+        {
+          "code": "11032",
+          "name": "Sanima Bank Limited"
+        }
+      ]
+    },
+    {
+      "title": "Development Bank (Class B)",
+      "data": [
+        {
+          "code": "12009",
+          "name": "Mahalaxmi Bikas Bank Limited"
+        },
+        {
+          "code": "12010",
+          "name": "Narayani Development Bank Limited"
+        },
+        {
+          "code": "12014",
+          "name": "Karnali Development Bank Limited"
+        },
+        {
+          "code": "12019",
+          "name": "Shangrila Development Bank Limited"
+        },
+        {
+          "code": "12027",
+          "name": "Excel Development Bank Limited"
+        },
+        {
+          "code": "12033",
+          "name": "Miteri Development Bank Limited"
+        },
+        {
+          "code": "12036",
+          "name": "Muktinath  Bikas Bank Limited"
+        },
+        {
+          "code": "12051",
+          "name": "Garima Bikas Bank Limited"
+        },
+        {
+          "code": "12056",
+          "name": "Kamana Sewa Bikash Bank Limited"
+        },
+        {
+          "code": "12057",
+          "name": "Corporate Development Bank Limited"
+        },
+        {
+          "code": "12060",
+          "name": "Jyoti Bikas Bank Limited"
+        },
+        {
+          "code": "12064",
+          "name": "Shine Resunga Development Bank Limited"
+        },
+        {
+          "code": "12075",
+          "name": "Lumbini Bikas Bank Limited"
+        },
+        {
+          "code": "12084",
+          "name": "Sindhu Bikas Bank Limited"
+        },
+        {
+          "code": "12094",
+          "name": "Salapa Bikas Bank Limited"
+        },
+        {
+          "code": "12095",
+          "name": "Saptakoshi Development Bank Limited"
+        },
+        {
+          "code": "12099",
+          "name": "Green Development Bank Limited"
+        }
+      ]
+    },
+    {
+      "title": "Finance Company (Class C)",
+      "data": [
+        {
+          "code": "13002",
+          "name": "Nepal Finance  Limited"
+        },
+        {
+          "code": "13006",
+          "name": "Nepal Share Markets and Finance Limited"
+        },
+        {
+          "code": "13009",
+          "name": "Gurkhas Finance Limited"
+        },
+        {
+          "code": "13018",
+          "name": "Goodwill Finance  Limited"
+        },
+        {
+          "code": "13020",
+          "name": "Shree Investment & Finance Co. Limited"
+        },
+        {
+          "code": "13031",
+          "name": "Best Finance Limited"
+        },
+        {
+          "code": "13033",
+          "name": "Progessive Finance Limited"
+        },
+        {
+          "code": "13037",
+          "name": "Janaki Finance Co. Limited"
+        },
+        {
+          "code": "13038",
+          "name": "Pokhara Finance Limited"
+        },
+        {
+          "code": "13039",
+          "name": "Central Finance Limited"
+        },
+        {
+          "code": "13042",
+          "name": "Multipurpose  Finance Co. Limited"
+        },
+        {
+          "code": "13048",
+          "name": "Samriddhi Finance Company Limited"
+        },
+        {
+          "code": "13049",
+          "name": "Capital  Merchant Banking & Finance Co. Limited"
+        },
+        {
+          "code": "13052",
+          "name": "Guheshwori  Merchant Banking & Finance Limited"
+        },
+        {
+          "code": "13059",
+          "name": "ICFC Finance Limited"
+        },
+        {
+          "code": "13080",
+          "name": "Manjushree Financial Institution Limited"
+        },
+        {
+          "code": "13083",
+          "name": "Reliance Finance Limited"
+        }
+      ]
+    },
+    {
+      "title": "Microfinance Institutions (Class D)",
+      "data": [
+        {
+          "code": "14001",
+          "name": "Grameen Bikas Laghubitta Bittiya Sanstha Limited"
+        },
+        {
+          "code": "14006",
+          "name": "Nirdhan Utthan Laghubitta Bittiya Sanstha Limited"
+        },
+        {
+          "code": "14007",
+          "name": "RMDC Laghubitta Bittiya Sanstha Limited"
+        },
+        {
+          "code": "14008",
+          "name": "Deprosc Laghubitta Bittiya Sanstha Limited"
+        },
+        {
+          "code": "14009",
+          "name": "Chhimek Laghubitta Bittiya Sanstha Limited"
+        },
+        {
+          "code": "14010",
+          "name": "Swabalamban Laghubitta Bittiya Sanstha Limited"
+        },
+        {
+          "code": "14011",
+          "name": "Sana Kisan  Bikas Laghubitta Bittiya Sanstha Limited"
+        },
+        {
+          "code": "14012",
+          "name": "Nerude Laghubitta Bittiya Sanstha Limited"
+        },
+        {
+          "code": "14015",
+          "name": "Sworojagar Laghubitta Bittiya Sanstha Limited"
+        },
+        {
+          "code": "14016",
+          "name": "First Microfinance Laghubitta Bittiya Sanstha Limited"
+        },
+        {
+          "code": "14018",
+          "name": "Kalika Laghubitta Bittiya Sanstha Ltd."
+        },
+        {
+          "code": "14019",
+          "name": "Mirmire Laghubitta Bittiya Sanstha Ltd."
+        },
+        {
+          "code": "14020",
+          "name": "Janautthan Samudayik Laghubitta Bittiya Sanstha Ltd."
+        },
+        {
+          "code": "14021",
+          "name": "Mithila Laghubitta Bittiya Sanstha Ltd."
+        },
+        {
+          "code": "14022",
+          "name": "Suryodaya Womi Laghubitta Bittiya Sanstha Ltd."
+        },
+        {
+          "code": "14023",
+          "name": "Laxmi Laghubitta Bittiya Sanstha Ltd."
+        },
+        {
+          "code": "14024",
+          "name": "Civil Laghubitta Bittiya Sanstha Ltd."
+        },
+        {
+          "code": "14026",
+          "name": "Vijaya Laghubitta Bittiya Sanstha Ltd."
+        },
+        {
+          "code": "14028",
+          "name": "NMB Laghubitta Bittiya Sanstha Ltd."
+        },
+        {
+          "code": "14029",
+          "name": "Forward Microfinance Laghubitta Bittiya Sanstha Ltd."
+        },
+        {
+          "code": "14030",
+          "name": "Global IME Laghubitta Bittiya Sanstha Limited"
+        },
+        {
+          "code": "14031",
+          "name": "Mahuli Laghubitta Bittiya Sanstha Ltd."
+        },
+        {
+          "code": "14033",
+          "name": "Meromicrofinance Laghubitta Bittiya Sanatha Ltd."
+        },
+        {
+          "code": "14034",
+          "name": "Samata Gharelu Laghubitta Bittiya sanstha Limited"
+        },
+        {
+          "code": "14035",
+          "name": "RSDC Laghubitta Bitiya Sanstha Ltd."
+        },
+        {
+          "code": "14036",
+          "name": "Samudayik  Laghubitta Bitiya Sanstha Ltd."
+        },
+        {
+          "code": "14037",
+          "name": "National Microfinance Laghubitta Bittiya Sanstha Ltd."
+        },
+        {
+          "code": "14038",
+          "name": "WEAN Nepal Laghubitta Bittiya Sanstha Limited"
+        },
+        {
+          "code": "14039",
+          "name": "Unnati Sahakarya Laghubitta Bittiya Sanstha Ltd."
+        },
+        {
+          "code": "14041",
+          "name": "NADEP Laghubitta Bittiya Sanstha Limited"
+        },
+        {
+          "code": "14042",
+          "name": "Support Laghubitta Bittiya Sanstha Limited"
+        },
+        {
+          "code": "14045",
+          "name": "Arambha Chautari Laghubitta Bittiya Sanstha Limited"
+        },
+        {
+          "code": "14047",
+          "name": "Asha Laghubitta Bittiya Sanstha Ltd"
+        },
+        {
+          "code": "14051",
+          "name": "Gurans Laghubitta Bittiya Sanstha Ltd"
+        },
+        {
+          "code": "14052",
+          "name": "Ganapati Laghubitta Bittiya Sastha Ltd"
+        },
+        {
+          "code": "14053",
+          "name": "Infinity Laghubitta Bittiya Sanstha Ltd"
+        },
+        {
+          "code": "14054",
+          "name": "Adhikhola Laghubitta Bittiya Sanstha Ltd."
+        },
+        {
+          "code": "14055",
+          "name": "Swabhiman Laghubitta Bittiya Sanstha Ltd."
+        },
+        {
+          "code": "14057",
+          "name": "Sabaiko Laghubitta Bittiya Sanstha Ltd"
+        },
+        {
+          "code": "14059",
+          "name": "Sadhana Laghubitta Bittiya Sanstha Ltd."
+        },
+        {
+          "code": "14060",
+          "name": "NIC Asia Laghubitta Bittiya Sanstha Ltd."
+        },
+        {
+          "code": "14061",
+          "name": "Naya Sarathi Laghubitta Bittiya Sanstha Limited"
+        },
+        {
+          "code": "14064",
+          "name": "Manakamana Smart Laghubitta Bittiya Sanstha Ltd."
+        },
+        {
+          "code": "14066",
+          "name": "Summit Laghubitta Bittiya Sanstha Limited"
+        },
+        {
+          "code": "14069",
+          "name": "Samaj Laghubitta Bittiya Sanstha Ltd."
+        },
+        {
+          "code": "14076",
+          "name": "Mahila Laghubitta Bittiya Sanstha Limited"
+        },
+        {
+          "code": "14077",
+          "name": "Adarsha Laghubitta Bittiya Sanstha Limited"
+        },
+        {
+          "code": "14078",
+          "name": "Unique Nepal  Lagubitta Bittiya Sanstha Ltd."
+        },
+        {
+          "code": "14081",
+          "name": "Jalpa Samudayik Laghubitta Bittiya Sanstha Limited"
+        },
+        {
+          "code": "14082",
+          "name": "Manushi Laghubitta Bittiya Sanstha Limited"
+        },
+        {
+          "code": "14083",
+          "name": "Rastra Utthan Laghubitta Bittiya Sanstha Limited"
+        },
+        {
+          "code": "14086",
+          "name": "Upakar Laghubitta Bittiya Sanstha Limited"
+        },
+        {
+          "code": "14087",
+          "name": "BPW Laghubitta Bittiya Sanstha Limited"
+        },
+        {
+          "code": "14088",
+          "name": "Dhaulagiri Laghubitta Bittiya Sanstha Limited"
+        },
+        {
+          "code": "14089",
+          "name": "CYC Nepal Laghubitta Bittiya Sanstha Limited"
+        },
+        {
+          "code": "14090",
+          "name": "NESDO Samriddha Laghubitta Bittiya Sanstha Limited"
+        },
+        {
+          "code": "14091",
+          "name": "Aatmanirbhar Laghubitta Bittiya Sanstha Limited"
+        },
+        {
+          "code": "14092",
+          "name": "Swastik Laghubitta Bittiya Sanstha Limited"
+        },
+        {
+          "code": "14094",
+          "name": "Shrijanshil Laghubitta Bittiya Sanstha Limited"
+        },
+        {
+          "code": "14095",
+          "name": "Kisan Laghubitta Bittiya Sanstha Limited"
+        },
+        {
+          "code": "14096",
+          "name": "Jeevan Bikas Laghubitta Bittiya Sanstha Limited"
+        },
+        {
+          "code": "14099",
+          "name": "Super Laghubitta Bittiya Sanstha Limited"
+        },
+        {
+          "code": "14101",
+          "name": "Aviyan Laghubitta Bittiya Sanstha Limited"
+        },
+        {
+          "code": "14104",
+          "name": "Khaptad Laghubitta Bittiya Sanstha Limited"
+        }
+      ]
+    },
+    {
+      "title": "Payment Service Provider",
+      "data": [
+        {
+          "code": "17003",
+          "name": "Esewa Phonepay Pvt Ltd"
+        },
+        {
+          "code": "17001",
+          "name": "IME Digital Solution Limited"
+        },
+        {
+          "code": "17002",
+          "name": "Prabhu Technology Pvt. Limited"
+        },
+        {
+          "code": "17004",
+          "name": "Q-Pay Pvt. Ltd"
+        },
+        {
+          "code": "17005",
+          "name": "Sparrow Pay Pvt. Ltd"
+        },
+        {
+          "code": "17006",
+          "name": "Cellcom Private Limited"
+        },
+        {
+          "code": "17007",
+          "name": "Nepal Pay Time Pvt. Ltd."
+        },
+        {
+          "code": "17008",
+          "name": "Mohar Digital Pvt. Ltd"
+        },
+        {
+          "code": "17009",
+          "name": "Pay Nep Pvt Ltd"
+        },
+        {
+          "code": "17010",
+          "name": "CG Pay Nepal Pvt. Ltd."
+        },
+        {
+          "code": "17011",
+          "name": "Smart Card Nepal Pvt. Ltd."
+        },
+        {
+          "code": "17012",
+          "name": "E-Net Payment Pvt. Ltd."
+        },
+        {
+          "code": "17013",
+          "name": "FocusOne Payment Solutions Pvt. Ltd."
+        },
+        {
+          "code": "17014",
+          "name": "Kuraakani Pay Pvt. Ltd."
+        },
+        {
+          "code": "17015",
+          "name": "Goldmine Business Group PVT. LTD."
+        },
+        {
+          "code": "17016",
+          "name": "PayWell Nepal Pvt. Ltd"
+        },
+        {
+          "code": "17017",
+          "name": "We Pay Pvt. Ltd."
+        },
+        {
+          "code": "17019",
+          "name": "Fintech International Pvt. Ltd."
+        },
+        {
+          "code": "17020",
+          "name": "Lenden Sewa Pvt. Ltd."
+        },
+        {
+          "code": "17021",
+          "name": "Digi Pay Pvt. Ltd."
+        },
+        {
+          "code": "17022",
+          "name": "Nepal E Bij Management Pvt. Ltd."
+        },
+        {
+          "code": "17023",
+          "name": "I Pay Pvt. Ltd."
+        },
+        {
+          "code": "17024",
+          "name": "I Cash Private Limited"
+        },
+        {
+          "code": "17025",
+          "name": "Nepal Digital Payments Company Limited"
+        },
+        {
+          "code": "17026",
+          "name": "Sulav Pay Private Limited"
+        },
+        {
+          "code": "17027",
+          "name": "Chitto Paisa Private Limited"
+        },
+        {
+          "code": "17028",
+          "name": "Sajilo Pay Payment Services Pvt. Ltd."
+        }
+      ]
+    },
+    {
+      "title": "Payment System Operator",
+      "data": [
+        {
+          "code": "18001",
+          "name": "SmartChoice Technologies Ltd."
+        },
+        {
+          "code": "18002",
+          "name": "Nepal Clearing House Limited"
+        },
+        {
+          "code": "18003",
+          "name": "Nepal Electronic Payment System Ltd."
+        },
+        {
+          "code": "18004",
+          "name": "Nepal Payment Solution Pvt. Ltd."
+        },
+        {
+          "code": "18005",
+          "name": "Fonepay Payment Service Limited"
+        },
+        {
+          "code": "18006",
+          "name": "Union Pay International Company Limited"
+        },
+        {
+          "code": "18007",
+          "name": "Visa Worldwide Pvt Ltd."
+        },
+        {
+          "code": "18008",
+          "name": "Mastercard Asia/Pacific Pvt. Ltd."
+        },
+        {
+          "code": "18009",
+          "name": "First Pay Technology Pvt. Ltd."
+        },
+        {
+          "code": "18010",
+          "name": "Gateway Payment Service Pvt. Ltd."
+        }
+      ]
+    },
+    {
+      "title": "Infrastructure Development Bank",
+      "data": [
+        {
+          "code": "19001",
+          "name": "Nepal Infrastructure Bank Limited"
+        }
+      ]
+    },
+    {
+      "title": "Hire Purchase",
+      "data": [
+        {
+          "code": "31001",
+          "name": "Omni Pvt. Ltd."
+        },
+        {
+          "code": "31002",
+          "name": "Hulas Fin Serve Ltd."
+        },
+        {
+          "code": "31003",
+          "name": "Sipradi Hire Purchase Pvt. Ltd."
+        },
+        {
+          "code": "31004",
+          "name": "Batas Investment Co. Pvt. Ltd."
+        },
+        {
+          "code": "31005",
+          "name": "M.A.W. Investment Pvt. Ltd."
+        },
+        {
+          "code": "31006",
+          "name": "Syakar Investment Pvt. Ltd."
+        },
+        {
+          "code": "31007",
+          "name": "Jagadamba Credit & Investment Pvt. Ltd."
+        },
+        {
+          "code": "31008",
+          "name": "Venture Hire Purchase Pvt. Ltd."
+        },
+        {
+          "code": "31009",
+          "name": "Manakamana Hire Purchase Pvt. Ltd."
+        },
+        {
+          "code": "31010",
+          "name": "Agni Hire Purchase Pvt. Ltd."
+        }
+      ]
+    },
+    {
+      "title": "Representative Office",
+      "data": [
+        {
+          "code": "33002",
+          "name": "Mashreq Bank PSC"
+        },
+        {
+          "code": "32001",
+          "name": "Doha Bank"
+        },
+        {
+          "code": "32003",
+          "name": "ICICI Bank Limited"
+        }
+      ]
+    },
+    {
+      "title": "Cooperatives",
+      "data": [
+        {
+          "code": "33001",
+          "name": "Rastriya Sahakari Bank Ltd."
+        }
+      ]
+    },
+    {
+      "title": "Investment and Development",
+      "data": [
+        {
+          "code": "34001",
+          "name": "Hydroelectricity Investment & Development Company Ltd"
+        }
+      ]
+    }
+  ]
+}
