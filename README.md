@@ -5,6 +5,9 @@ the fast, free & **unlimited** API for BFI data taken directly from
 This repo acts as the free and open API for the already **publicly** 
 available data in the NRB's website.
 
+To know more regarding what this is about please see: 
+[/bank-list](https://www.nrb.org.np/bank-list/)
+
 ## Features
 
 - All financial institutions all over Nepal 🇳🇵
@@ -27,7 +30,8 @@ Get the list of all the institutions using this endpoint.
 
 
 #### STEP #2:
-Use the data from above endpoint and send request to the specific 
+Use the data from above endpoint and send request to the specific endpoint 
+based on the code. 
 `https://cdn.jsdelivr.net/gh/xyznaveen/bfi@latest/data/<bfi_code>.json`
 
 For instance: If you want to get the data for BFI code `11001` then you 
