@@ -37,14 +37,25 @@ would send request to
 Repeat the same pattern for the necessary code.
 
 ## F.A.Q
-----------------
 
-##### Do you scrape the NRB website ?
+<details>
+<summary>Do you scrape the NRB website ?</summary>
 Yes, but this is not done frequently. I plan to do this every 1 month or 
 so. Because this data doesn't get updated that often.
+</details>
 
-##### How do I request or ask something ?
+<details>
+<summary>How do I request or ask something ?</summary>
 Simply create issue with (appropriate label?) right here in GitHub.
+</details>
 
-##### Are you full time web scraper ?
+<details>
+<summary>Are you full time web scraper ?</summary>
 NOPE, I'm an Android SE!
+</details>
+
+<details>
+<summary>Where is the scraping code ?</summary>
+Unfortunately I cannot make that public right now. Will I ever? That is 
+the question.
+</details>
